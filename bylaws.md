@@ -1,10 +1,9 @@
-San Diego County Democratic Party Central Committee Bylaws February 20, 2018 - Page i
-Replaced November 21, 2017 Bylaws
-BYLAWS
-# NAME AND PURPOSE
-## Name
+# San Diego County Democratic Party Central Committee Bylaws February 20, 2018
+Replaced November 21, 2017
+## NAME AND PURPOSE
+### Name
 The name of This Committee is the San Diego County Democratic Party Central Committee (the Central Committee). The Central Committee is a committee within the meaning of California Government Code and Elections Code. The Central Committee may refer to itself as the San Diego County Democratic Party (SDCDP). These Bylaws refer to the Central Committee as This Committee.
-## Purpose
+### Purpose
 9 The purpose of the Central Committee is: to promote the growth and development of the
 10 Democratic Party; to actively support ballot measure propositions as long as they do not conflict
 11 with positions adopted by the Democratic State Central Committee; to actively support and elect
@@ -13,13 +12,13 @@ The name of This Committee is the San Diego County Democratic Party Central Comm
 14 Consistency with Statutory Law
 15 These Bylaws shall, to the extent consistent with applicable law, govern the organization,
 16 operation, and function of the Central Committee.
-17 Areas
+### Areas
 18 In order to create a more efficient and effective organization, the Central Committee shall be
 19 divided into four regions as set forth in Article VII. While the purpose and intent of this action is
 20 to make the Central Committee responsive to the unique characteristics of each area, there
 21 shall be uniformity of policy and principle in all areas to ensure coherence.
-22 MEMBERSHIP
-23 Membership
+## MEMBERSHIP
+### Membership
 24 A. All members shall be registered to vote as Democrats in San Diego County.
 25 B. There shall be seven (7) classes of membership: Elected, Ex-Officio, Designated,
 26 Appointed, Alternate, Lifetime, and Associate:
